@@ -1,0 +1,15 @@
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\bin\Debug\netcoreapp3.1\Крестики-нолики 2.exe
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\bin\Debug\netcoreapp3.1\Крестики-нолики 2.deps.json
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\bin\Debug\netcoreapp3.1\Крестики-нолики 2.runtimeconfig.json
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\bin\Debug\netcoreapp3.1\Крестики-нолики 2.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\bin\Debug\netcoreapp3.1\Крестики-нолики 2.dll
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\bin\Debug\netcoreapp3.1\Крестики-нолики 2.pdb
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\obj\Debug\netcoreapp3.1\Крестики-нолики 2.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\obj\Debug\netcoreapp3.1\Крестики_нолики_2.Form1.resources
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\obj\Debug\netcoreapp3.1\Крестики-нолики 2.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\obj\Debug\netcoreapp3.1\Крестики-нолики 2.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\obj\Debug\netcoreapp3.1\Крестики-нолики 2.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\obj\Debug\netcoreapp3.1\Крестики-нолики 2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\obj\Debug\netcoreapp3.1\Крестики-нолики 2.dll
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\obj\Debug\netcoreapp3.1\Крестики-нолики 2.pdb
+C:\Users\Александр\source\repos\Крестики-нолики 2\Крестики-нолики 2\obj\Debug\netcoreapp3.1\Крестики-нолики 2.genruntimeconfig.cache

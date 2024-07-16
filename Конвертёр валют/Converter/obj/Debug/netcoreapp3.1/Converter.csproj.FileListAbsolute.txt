@@ -1,0 +1,15 @@
+C:\Users\Александр\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.exe
+C:\Users\Александр\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.deps.json
+C:\Users\Александр\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.json
+C:\Users\Александр\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.dll
+C:\Users\Александр\source\repos\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.pdb
+C:\Users\Александр\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.Form1.resources
+C:\Users\Александр\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.dll
+C:\Users\Александр\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
+C:\Users\Александр\source\repos\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.genruntimeconfig.cache
